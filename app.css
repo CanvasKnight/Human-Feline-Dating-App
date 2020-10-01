@@ -1,0 +1,11 @@
+body {
+	background: url("https://unsplash.com/photos/rW-I87aPY5Y");
+	background-size: cover;
+	background-position:center; 
+}
+
+
+#content {
+text-align: center;
+padding-top: 25%;
+}
